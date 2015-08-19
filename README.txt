@@ -2,7 +2,7 @@ This is a repo for me to play arond with git
 
     ∧＿∧　　 /￣￣￣￣
   （ ´･ω･)　＜　Sit back and relax, my friend
-　（ つ旦と）＼＿＿＿＿
+　（ つ旦と）  ＼＿＿＿＿
 　 と＿）＿）
 
 "Knock-knock"
@@ -10,3 +10,4 @@ This is a repo for me to play arond with git
 "Git"
 "Git who?"
 "Git on with your project!"
+... Git this joke over with
