@@ -1,8 +1,12 @@
-This is a repo for me to play arond with git!
-Checkout others repos to see what I can actually do
+This is a repo for me to play arond with git
 
     ∧＿∧　　 /￣￣￣￣
   （ ´･ω･)　＜　Sit back and relax, my friend
 　（ つ旦と）＼＿＿＿＿
 　 と＿）＿）
 
+"Knock-knock"
+"Who's there?"
+"Git"
+"Git who?"
+"Git on with your project!"
